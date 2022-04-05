@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kajal-7/api.git"
+    "url": "git+https://github.com/Kajal-7/E-Kaksha.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kajal-7/api/issues"
+    "url": "https://github.com/Kajal-7/E-Kaksha/issues"
   },
-  "homepage": "https://github.com/Kajal-7/api#readme",
+  "homepage": "https://github.com/Kajal-7/E-Kaksha#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "dotenv": "^16.0.0",
