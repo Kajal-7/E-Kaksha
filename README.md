@@ -7,9 +7,17 @@ One must have nodeJs installed on the system.
 Download Link: https://nodejs.org/en/download/ (Download the LTS version)
 ## Setting the project on local System
 Clone the git repository from the following link: https://github.com/Kajal-7/E-Kaksha
-Open the project folder on the local system and navigate to the api folder using command cd api and run command “npm i”.
+<br/>
+Open the project folder on the local system and navigate to the api folder using command cd api and run command “npm i”. 
+Also add an .env file in the root folder (api folder), which will contain : "MONGO_URL = 'YOUR CONNECTION STRING URI' " (Without outer double quotes).
+Connection string uri format would be similar to : "mongodb://[username:password@]host1[:port1][,...hostN[:portN]][/[defaultauthdb][?options]]".
+To generate the uri, refer the mongodb atlas docs : https://www.mongodb.com/docs/guides/cloud/connectionstring/
+
+<br/>
 Navigate to socket folder using command cd socket  and run command “npm i”
-Navigate to MainApp_EKaksha using command cd MainApp_EKaksha and run command npm 
+<br/>
+Navigate to MainApp_EKaksha using command cd MainApp_EKaksha and run command "npm i"
+<br/>
 ## How to Start:
 Navigate to api folder and then run the command “node index.js”
 Navigate to socket folder and then run the command “node index.js”
