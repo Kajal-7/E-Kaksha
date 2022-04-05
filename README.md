@@ -17,7 +17,8 @@ To generate the uri, refer the mongodb atlas docs : https://www.mongodb.com/docs
 Navigate to socket folder using command cd socket  and run command “npm i”
 <br/>
 Navigate to MainApp_EKaksha using command cd MainApp_EKaksha and run command "npm i"
-<br/>
+
+
 ## How to Start:
 Navigate to api folder and then run the command “node index.js”
 Navigate to socket folder and then run the command “node index.js”
