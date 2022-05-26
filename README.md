@@ -23,3 +23,6 @@ Navigate to MainApp_EKaksha using command cd MainApp_EKaksha and run command "np
 Navigate to api folder and then run the command “node index.js”
 Navigate to socket folder and then run the command “node index.js”
 Navigate to MainApp_EKaksha folder and then run the command “npm start” 
+
+##Link to Website
+https://sweet-starburst-15d15d.netlify.app/ 
